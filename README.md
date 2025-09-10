@@ -3,31 +3,31 @@ Pharma Multi-Agent Dashboard
 An AI-driven pharmaceutical supply chain dashboard integrating multi-model demand forecasting, machine health monitoring, and MILP-based production optimization.
 Built with a multi-agent orchestration architecture and an interactive Streamlit UI.
 
-🚀 Features
+Features
 
-📊 Interactive Dashboard with Plotly charts and expandable sections
+Interactive dashboard with Plotly charts and expandable sections
 
-🤖 Multi-Agent System (Forecasting, Machine Monitoring, Supply Optimization)
+Multi-agent system (Forecasting, Machine Monitoring, Supply Optimization)
 
-🔮 Demand Forecasting (ARIMA, Prophet, XGBoost, optional LSTM) with uncertainty bands
+Demand forecasting (ARIMA, Prophet, XGBoost, optional LSTM) with uncertainty bands
 
-⚙️ Machine Health Monitoring with anomaly detection (Isolation Forest)
+Machine health monitoring with anomaly detection (Isolation Forest)
 
-📦 Supply Recommendations using MILP optimization (PuLP)
+Supply recommendations using MILP optimization (PuLP)
 
-⚡ Scenario Simulation (demand scaling, machine failures, heuristic/MILP toggle)
+Scenario simulation (demand scaling, machine failures, heuristic/MILP toggle)
 
-💬 Chatbot for natural language queries on forecasts, risks, and production
+Chatbot for natural language queries on forecasts, risks, and production
 
-🛠️ Experiment Tracking with optional MLflow integration
+Experiment tracking with optional MLflow integration
 
-🔬 Tech Stack
+Tech Stack
 
 Frontend: Streamlit, Plotly, Custom CSS
 
 Backend: Python, Orchestrator pattern, Pub/Sub messaging
 
-ML Models: ARIMA, Prophet, XGBoost, IsolationForest, LSTM (legacy)
+Machine Learning Models: ARIMA, Prophet, XGBoost, IsolationForest, LSTM (legacy)
 
 Optimization: PuLP (MILP solver)
 
@@ -35,13 +35,12 @@ Data Handling: Pandas, NumPy
 
 Experiment Tracking: MLflow (optional)
 
-🎯 Example Use Cases
+Example Use Cases
 
-Pharma companies planning production schedules under demand uncertainty
+Supporting pharmaceutical companies in planning production schedules under demand uncertainty
 
-Predicting machine failures to reduce downtime
+Predicting machine failures to reduce downtime and improve reliability
 
-Running what-if scenarios (e.g., demand surge, machine breakdowns)
+Running scenario-based analyses (e.g., demand surge, machine breakdowns)
 
-Academic/Research use in AI-driven supply chain analytics
-
+Academic and research applications in AI-driven supply chain analytics
