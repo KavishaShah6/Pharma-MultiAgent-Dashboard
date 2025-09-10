@@ -1,0 +1,6 @@
+drug,current_stock,reorder_point,max_capacity
+Aspirin,308,146,1947
+Ibuprofen,168,53,1029
+Acetaminophen,425,88,1176
+Penicillin,137,52,1216
+Amoxicillin,363,106,1237
