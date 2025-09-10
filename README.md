@@ -1,4 +1,4 @@
-arma Multi-Agent Dashboard
+Pharma Multi-Agent Dashboard
 
 An AI-driven pharmaceutical supply chain dashboard integrating multi-model demand forecasting, machine health monitoring, and MILP-based production optimization.
 Built with a multi-agent orchestration architecture and an interactive Streamlit UI.
@@ -44,3 +44,4 @@ Predicting machine failures to reduce downtime
 Running what-if scenarios (e.g., demand surge, machine breakdowns)
 
 Academic/Research use in AI-driven supply chain analytics
+
